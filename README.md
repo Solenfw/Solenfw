@@ -1,1 +1,1 @@
-- 👋 Hi there, I’m Geeka (@Solenfw)! an asprising SWE from Vietnam 🇻🇳
+- 👋 asprising SWE from Vietnam 🇻🇳
