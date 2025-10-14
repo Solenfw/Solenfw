@@ -1,1 +1,1 @@
-- 👋 asprising SWE from Vietnam 🇻🇳
+- asprising SWE from Vietnam 🇻🇳
